@@ -50,5 +50,5 @@ def math_quiz(number_of_questions):
     else:
         print("Попробуйте еще раз. Вы получаете оценку C.")
 
-
+# запустим тест
 math_quiz(10)
